@@ -2,7 +2,6 @@
 
 😎 I make video games<br> 💬 Ask me about Games!!! and Development<br>⚡ Fun Fact: Hala Madrid Y Nada Mas
 
-## Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatTanishqTak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
