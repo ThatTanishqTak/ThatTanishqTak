@@ -1,8 +1,7 @@
-# 💫 About Me: Citizen of the internet 
+# 💫 About Me: Citizen of the internet<br>
+I make video games<br> Ask me about Games and Development<br> Fun Fact: Hala Madrid Y Nada Mas
 
-😎 I make video games<br> 💬 Ask me about Games and Development<br>⚡ Fun Fact: Hala Madrid Y Nada Mas
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatTanishqTak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatTanishqTak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
