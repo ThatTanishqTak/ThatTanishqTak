@@ -17,7 +17,7 @@
 ## 🌟 Recent Projects
 
 [Trinity](https://github.com/ThatTanishqTak/Trinity) - <strong>A 2D game engine</strong><br>
-[3D Renderer](https://github.com/ThatTanishqTak/3D-Renderer) - <strong>A 3D renderer build using raylib and C++</strong>
+<br>[3D Renderer](https://github.com/ThatTanishqTak/3D-Renderer) - <strong>A 3D renderer build using raylib and C++</strong>
 
 ## 💡 Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
