@@ -8,6 +8,12 @@
 ![Raylib](https://img.shields.io/badge/-Raylib-000000?style=flat&logo=raylib&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-E4:1?style=flat-square&logo=opengl)
 
+## 📊 GitHub Stats
+
+<a href="https://github.com/ThatTanishqTak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatTanishqTak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut&langs_count=20" alt="Top Languages" />
+</a>
+
 ## 🌟 Recent Projects
 
 [Trinity](https://github.com/ThatTanishqTak/Trinity) - <strong>A 2D game engine</strong><br>
@@ -19,12 +25,6 @@
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/that-tanishq-tak/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ThatTanishqTak)
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/ThatTanishqTak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatTanishqTak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut&langs_count=20" alt="Top Languages" />
-</a>
 
 ---
 
