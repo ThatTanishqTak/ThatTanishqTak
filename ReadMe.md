@@ -5,6 +5,7 @@
 ## 🛠️ Technologies I Work With
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2b%2b&hight=50)
+![Unity](https://img.shields.io/badge/-Unity-808080?style=flat-square&logo=unity&logoColor=gray)
 ![Raylib](https://img.shields.io/badge/-Raylib-000000?style=flat&logo=raylib&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-E4:1?style=flat-square&logo=opengl)
 
