@@ -1,28 +1,46 @@
-# 🎮 Game Developer | 🖥️ Tech Enthusiast
+# 👋 Hi there! I'm Tanishq Tak - Citizen of the Internet
 
-👋 Welcome to my GitHub profile! I'm Tanishq, a passionate game developer and tech enthusiast. Here you'll find my gaming projects, development experiments, and learning adventures.
+## About Me
+Game developer specializing in graphics and physics engines. I build high-performance rendering systems and realistic physics simulations that bring games to life.
 
-## 🛠️ Technologies I Work With
+## Technical Expertise
+### Core Competencies
+- Graphics Engine Development (OpenGL, Ray Tracing)
+- Physics Simulation Systems
+- Performance Optimization
+- Cross-platform Development
+- System Architecture Design
 
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2b%2b&hight=50)
-![C#](https://img.shields.io/badge/-C%23-000000?logo=dotnet)
-![Unity](https://img.shields.io/badge/-Unity-808080?style=flat-square&logo=unity&logoColor=gray)
-![Raylib](https://img.shields.io/badge/-Raylib-000000?style=flat&logo=raylib&logoColor=white)
-![OpenGL](https://img.shields.io/badge/-OpenGL-E4:1?style=flat-square&logo=opengl)
+## Projects & Contributions
+### Graphics Engine Development
+- Custom OpenGL-based rendering engine
+- Real-time lighting systems
+- Physics-based shader development
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/ThatTanishqTak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatTanishqTak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut&langs_count=20" alt="Top Languages" />
-</a>
-
-## 💡 Random Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/that-tanishq-tak/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ThatTanishqTak)
+### Physics Systems
+- Collision detection algorithms
+- Rigid body dynamics
+- Constraint-based simulations
 
 ---
 
-👋 Let's connect!
+## Tech Stack 
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2b%2b)
+![C#](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)                     
+![Unity](https://img.shields.io/badge/-Unity-808080?style=for-the-badge&logo=unity)
+![Raylib](https://img.shields.io/badge/-Raylib-000000?style=for-the-badge&logo=raylib)
+![OpenGL](https://img.shields.io/badge/-OpenGL-E95420?style=for-the-badge&logo=opengl)
+![Vulkan](https://img.shields.io/badge/-Vulkan-9E1A1A?style=for-the-badge&logo=vulkan)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatTanishqTak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=20" alt="Top Languages" />
+
+## 🪶 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/that-tanishq-tak/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ThatTanishqTak)
+
+---
+
+🚀 Let's build something amazing together!
