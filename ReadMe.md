@@ -5,7 +5,7 @@ Game developer specializing in graphics and physics engines. I build high-perfor
 
 ## Technical Expertise
 ### Core Competencies
-- Graphics Engine Development (OpenGL, Ray Tracing)
+- Graphics Engine Development (OpenGL, Vulkan, Ray Tracing)
 - Physics Simulation Systems
 - Performance Optimization
 - Cross-platform Development
