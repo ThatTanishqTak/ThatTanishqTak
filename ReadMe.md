@@ -20,13 +20,9 @@ Game developer specializing in graphics and physics engines. I build high-perfor
 ![OpenGL](https://img.shields.io/badge/-OpenGL-E95420?style=for-the-badge&logo=opengl)
 ![Vulkan](https://img.shields.io/badge/-Vulkan-9E1A1A?style=for-the-badge&logo=vulkan)
 
-## 🪶 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-## Let's Connect!
+## Let's Connect! 🚀 Let's build something amazing together!
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/that-tanishq-tak/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ThatTanishqTak)
 
----
-
-🚀 Let's build something amazing together!
+## 🪶 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
