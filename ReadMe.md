@@ -4,23 +4,11 @@
 Game developer specializing in graphics and physics engines. I build high-performance rendering systems and realistic physics simulations that bring games to life.
 
 ## Technical Expertise
-### Core Competencies
 - Graphics Engine Development (OpenGL, Vulkan, Ray Tracing)
 - Physics Simulation Systems
 - Performance Optimization
 - Cross-platform Development
 - System Architecture Design
-
-## Projects & Contributions
-### Graphics Engine Development
-- Custom OpenGL-based rendering engine
-- Real-time lighting systems
-- Physics-based shader development
-
-### Physics Systems
-- Collision detection algorithms
-- Rigid body dynamics
-- Constraint-based simulations
 
 ---
 
@@ -31,8 +19,6 @@ Game developer specializing in graphics and physics engines. I build high-perfor
 ![Raylib](https://img.shields.io/badge/-Raylib-000000?style=for-the-badge&logo=raylib)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-E95420?style=for-the-badge&logo=opengl)
 ![Vulkan](https://img.shields.io/badge/-Vulkan-9E1A1A?style=for-the-badge&logo=vulkan)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatTanishqTak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=20" alt="Top Languages" />
 
 ## 🪶 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
