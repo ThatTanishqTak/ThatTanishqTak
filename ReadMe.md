@@ -23,6 +23,3 @@ Game developer specializing in graphics and physics engines. I build high-perfor
 ## Let's Connect! 🚀 Let's build something amazing together!
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/that-tanishq-tak/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ThatTanishqTak)
-
-## 🪶 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
